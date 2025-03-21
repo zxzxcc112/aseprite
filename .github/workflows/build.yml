@@ -93,4 +93,4 @@ jobs:
       with:
         name: aseprite
         path: |
-          $PWD/build/bin/aseprite
+          D:/a/aseprite/aseprite
